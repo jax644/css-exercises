@@ -1,3 +1,9 @@
+.mono,
+.happy {
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif
+}
+
 .mono {
     color:white;
     background-color: black;
@@ -5,8 +11,4 @@
 }
 .happy {
     background-color:yellow;
-}
-.jac{
-    font-size:28px;
-    font-family:Helvetica, "Times New Roman", sans-serif
 }
